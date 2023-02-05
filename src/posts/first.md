@@ -1,7 +1,7 @@
 ---
-title: First Post
-slug: first-post
-date: 2022-12-26
+title: First Anniversary
+slug: first-anniversary
+date: 2023-02-01
 ---
 
-Content to come later ...
+Our LLC paperwork was filed with the AZCC one year ago today. 
